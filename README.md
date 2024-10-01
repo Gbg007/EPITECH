@@ -4,3 +4,6 @@ MY FIRST REPOSITORY
 # Étudiant 
 # 17 ans 
 #B-CPE-100-COT-1-1-cpoolday01-helios.gbaguidi
+task01
+task02
+task03
