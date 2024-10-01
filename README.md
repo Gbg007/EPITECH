@@ -1,2 +1,5 @@
 # EPITECH
 MY FIRST REPOSITORY
+# HéliosGBAGUIDI
+# Étudiant 
+# 17 ans 
